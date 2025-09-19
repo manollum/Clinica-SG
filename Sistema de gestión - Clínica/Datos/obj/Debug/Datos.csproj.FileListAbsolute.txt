@@ -1,0 +1,9 @@
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\bin\Debug\Datos.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\bin\Debug\Datos.pdb
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\bin\Debug\Entidad.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\bin\Debug\Entidad.pdb
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\obj\Debug\Datos.csproj.Up2Date
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\obj\Debug\Datos.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Datos\obj\Debug\Datos.pdb

@@ -1,0 +1,11 @@
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\bin\Debug\Negocios.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\bin\Debug\Negocios.pdb
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\bin\Debug\Datos.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\bin\Debug\Entidad.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\bin\Debug\Datos.pdb
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\bin\Debug\Entidad.pdb
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\obj\Debug\Negocios.csproj.Up2Date
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\obj\Debug\Negocios.dll
+F:\TPI Progra 3 - Subir a GitHub\Sistema de gestión - Clínica\Negocios\obj\Debug\Negocios.pdb
